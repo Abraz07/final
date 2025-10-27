@@ -1,9 +1,9 @@
-package com.rwtools.auth.controller;
+package rwtool.homepage.controller;
 
-import com.rwtools.auth.dto.AuthResponse;
-import com.rwtools.auth.dto.LoginRequest;
-import com.rwtools.auth.dto.SignupRequest;
-import com.rwtools.auth.service.AuthService;
+import rwtool.homepage.dto.AuthResponse;
+import rwtool.homepage.dto.LoginRequest;
+import rwtool.homepage.dto.SignupRequest;
+import rwtool.homepage.service.AuthService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

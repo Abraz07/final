@@ -1,6 +1,6 @@
-package com.rwtools.auth.exception;
+package rwtool.homepage.exception;
 
-import com.rwtools.auth.dto.ErrorResponse;
+import rwtool.homepage.dto.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;

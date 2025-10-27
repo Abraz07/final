@@ -1,4 +1,4 @@
-package com.rwtools.auth.dto;
+package rwtool.homepage.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

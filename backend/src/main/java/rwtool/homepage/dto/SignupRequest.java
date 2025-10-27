@@ -1,6 +1,6 @@
-package com.rwtools.auth.dto;
+package rwtool.homepage.dto;
 
-import com.rwtools.auth.model.User;
+import rwtool.homepage.model.User;
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Pattern;

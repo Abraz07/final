@@ -1,4 +1,4 @@
-package com.rwtools.auth.exception;
+package rwtool.homepage.exception;
 
 public class InvalidCredentialsException extends RuntimeException {
     public InvalidCredentialsException(String message) {
