@@ -1,4 +1,4 @@
-package rwtool.homepage.dto;
+package com.rwtool.dto;
 
 import jakarta.validation.constraints.Email;
 import jakarta.validation.constraints.NotBlank;

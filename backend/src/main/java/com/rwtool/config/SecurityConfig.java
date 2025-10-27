@@ -1,6 +1,6 @@
-package rwtool.homepage.config;
+package com.rwtool.config;
 
-import rwtool.homepage.service.CustomUserDetailsService;
+import com.rwtool.service.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

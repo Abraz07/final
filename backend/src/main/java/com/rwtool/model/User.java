@@ -1,4 +1,4 @@
-package rwtool.homepage.model;
+package com.rwtool.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

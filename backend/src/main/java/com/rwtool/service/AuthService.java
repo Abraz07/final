@@ -1,13 +1,13 @@
-package rwtool.homepage.service;
+package com.rwtool.service;
 
-import rwtool.homepage.config.JwtUtil;
-import rwtool.homepage.dto.AuthResponse;
-import rwtool.homepage.dto.LoginRequest;
-import rwtool.homepage.dto.SignupRequest;
-import rwtool.homepage.exception.EmailAlreadyExistsException;
-import rwtool.homepage.exception.InvalidCredentialsException;
-import rwtool.homepage.model.User;
-import rwtool.homepage.repository.UserRepository;
+import com.rwtool.config.JwtUtil;
+import com.rwtool.dto.AuthResponse;
+import com.rwtool.dto.LoginRequest;
+import com.rwtool.dto.SignupRequest;
+import com.rwtool.exception.EmailAlreadyExistsException;
+import com.rwtool.exception.InvalidCredentialsException;
+import com.rwtool.model.User;
+import com.rwtool.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;

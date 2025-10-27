@@ -1,6 +1,6 @@
-package rwtool.homepage.config;
+package com.rwtool.config;
 
-import rwtool.homepage.service.CustomUserDetailsService;
+import com.rwtool.service.CustomUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

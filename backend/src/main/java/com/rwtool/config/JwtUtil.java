@@ -1,4 +1,4 @@
-package rwtool.homepage.config;
+package com.rwtool.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

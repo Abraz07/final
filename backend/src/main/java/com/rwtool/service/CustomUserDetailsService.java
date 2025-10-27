@@ -1,7 +1,7 @@
-package rwtool.homepage.service;
+package com.rwtool.service;
 
-import rwtool.homepage.model.User;
-import rwtool.homepage.repository.UserRepository;
+import com.rwtool.model.User;
+import com.rwtool.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;

@@ -1,6 +1,6 @@
-package rwtool.homepage.repository;
+package com.rwtool.repository;
 
-import rwtool.homepage.model.User;
+import com.rwtool.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
